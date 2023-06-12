@@ -10,3 +10,8 @@ https://www.udemy.com/course/design-patterns-java/?ranMID=39197&ranEAID=CuIbQrBn
 
 3. Design Pattern 교과서
 https://www.java67.com/2016/10/top-5-object-oriented-analysis-and-design-patterns-book-java.html
+
+4. 코딩 언어
+https://post.naver.com/viewer/postView.nhn?volumeNo=28768953&memberNo=20336190&vType=VERTICAL
+
+
