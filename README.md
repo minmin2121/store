@@ -25,3 +25,6 @@ https://docs.opencv.org/3.0-beta/index.html
 
 8. Design Pattern
 https://sourcemaking.com/design_patterns
+
+9. C/C++ 소규모 프로젝트
+https://www.codeincodeblock.com/2012/04/list-of-top-ten-college-mini-projects.html
