@@ -23,3 +23,5 @@ https://learnpython.org/
 7. OpenCV 활용
 https://docs.opencv.org/3.0-beta/index.html
 
+8. Design Pattern
+https://sourcemaking.com/design_patterns
