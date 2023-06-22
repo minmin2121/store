@@ -20,3 +20,6 @@ https://techblogpedia.com/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EC%82%AC%EC%9A%A9-%EC%96
 6. 파이썬 기초
 https://learnpython.org/
 
+7. OpenCV 활용
+https://docs.opencv.org/3.0-beta/index.html
+
